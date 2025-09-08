@@ -21,3 +21,17 @@ Este projeto foi desenvolvido como atividade prática do curso da **One e Alura*
 1. Clone o repositório:
    ```bash
    https://github.com/Thainarodriguess/challenge-amigo-secreto.git
+
+   Abra o arquivo `index.html` no seu navegador.
+2. Digite o nome dos amigos no campo de entrada e clique em **Adicionar**.
+3. Depois de adicionar todos os nomes, clique em **Sortear amigo** para ver o resultado.
+
+## Observações
+
+- Certifique-se de que o JavaScript está habilitado no navegador.
+- O campo de entrada não aceita valores vazios.
+- O sorteio é totalmente aleatório e considera todos os nomes adicionados na lista.
+
+## Créditos
+
+Projeto desenvolvido como atividade da **One** em parceria com a **Alura**.
